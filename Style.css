@@ -18,6 +18,9 @@ body{
     height: 100px;
     background-color: white;
     float: left;
+    color:orange;
+    font-size:55px;
+    text-align:center;
 }
 .black {
     background-color: black;
